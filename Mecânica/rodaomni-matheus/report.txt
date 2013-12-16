@@ -1,0 +1,17 @@
+﻿Report Name: report.txt
+Report Time: 1/12/2013 4:31:20 PM
+Report Options:
+    Part Names
+
+Select Set #1:
+    Armadura1.par:1
+
+Select Set #2:
+    anel.par:1
+
+Interferences:
+    1 of 1
+    Armadura1.par:1
+    anel.par:1
+
+    1 Interferences Detected
