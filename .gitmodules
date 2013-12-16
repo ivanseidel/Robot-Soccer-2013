@@ -1,0 +1,3 @@
+[submodule "Software/Libraries/ArdUI"]
+    path = Software/Libraries/ArdUI
+    url = git://github.com/ivanseidel/ArdUI.vim.git
