@@ -9,5 +9,7 @@ including Rendering, SolidWorks CAD drawings, simulations, software code and lib
 The project was developed by team EmeroCHS (Emerotecos with CHS)  from Brazil, for the national and international
 RoboCup at Eidhoven.
 
+At the same time, we were developing a Soccer B robot for RoboCup too. They both use almost the same electronics design and concept. Here is the [Rescue B project repository](https://github.com/ivanseidel/Robot-Rescue-2013).
+
 ![RoboCup Junior Soccer Electronics](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn1/72844_526333497424967_1327308863_n.jpg)
 ![RoboCup Junior Soccer Project](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn2/8714_547413945316922_283717100_n.jpg)
