@@ -1,7 +1,7 @@
 Soccer-Robot-2013
 =================
 
-![RoboCup Junior Soccer](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/524686_472385009486483_208128518_n.jpg)
+![RoboCup Junior Soccer](https://raw.githubusercontent.com/ivanseidel/Robot-Soccer-2013/master/Midia/info_04.png)
 
 This repository was created to share the entire RoboCup Junior Soccer robot project,
 including Rendering, SolidWorks CAD drawings, simulations, software code and libraries.
@@ -11,5 +11,5 @@ RoboCup at Eidhoven.
 
 At the same time, we were developing a Soccer B robot for RoboCup too. They both use almost the same electronics design and concept. Here is the [Rescue B project repository](https://github.com/ivanseidel/Robot-Rescue-2013).
 
-![RoboCup Junior Soccer Electronics](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn1/72844_526333497424967_1327308863_n.jpg)
-![RoboCup Junior Soccer Project](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn2/8714_547413945316922_283717100_n.jpg)
+![RoboCup Junior Soccer Electronics](https://raw.githubusercontent.com/ivanseidel/Robot-Soccer-2013/master/Midia/pcb_04.png)
+![RoboCup Junior Soccer Project](https://raw.githubusercontent.com/ivanseidel/Robot-Soccer-2013/master/Midia/Fotos/DSC_0059.JPG)
